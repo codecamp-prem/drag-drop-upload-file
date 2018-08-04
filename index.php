@@ -2,7 +2,7 @@
 <html>
 <head>
  <title>Drag and Drop - with - Progress Bar</title>
- <link href="css/style.css"></link>
+ <link href="css/style.css"/>
 </head>
 <body>
 <div id="drop-area">
